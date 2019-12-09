@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/RALM-BrewHaha/precache-manifest.5878631d1ce31a03408f990fab763c36.js"
+  "/RALM-BrewHaha/precache-manifest.04452b46eb6d1a6a61d2d2043a5fa4ed.js"
 );
 
 self.addEventListener('message', (event) => {
