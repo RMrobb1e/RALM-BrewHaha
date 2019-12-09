@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/RALM-BrewHaha/static/css/main.1a4d6ef6.chunk.css",
+    "main.js": "/RALM-BrewHaha/static/js/main.2feab2da.chunk.js",
+    "main.js.map": "/RALM-BrewHaha/static/js/main.2feab2da.chunk.js.map",
+    "runtime-main.js": "/RALM-BrewHaha/static/js/runtime-main.12695a06.js",
+    "runtime-main.js.map": "/RALM-BrewHaha/static/js/runtime-main.12695a06.js.map",
+    "static/css/2.465d1ef4.chunk.css": "/RALM-BrewHaha/static/css/2.465d1ef4.chunk.css",
+    "static/js/2.0debaf92.chunk.js": "/RALM-BrewHaha/static/js/2.0debaf92.chunk.js",
+    "static/js/2.0debaf92.chunk.js.map": "/RALM-BrewHaha/static/js/2.0debaf92.chunk.js.map",
+    "index.html": "/RALM-BrewHaha/index.html",
+    "precache-manifest.5878631d1ce31a03408f990fab763c36.js": "/RALM-BrewHaha/precache-manifest.5878631d1ce31a03408f990fab763c36.js",
+    "service-worker.js": "/RALM-BrewHaha/service-worker.js",
+    "static/css/2.465d1ef4.chunk.css.map": "/RALM-BrewHaha/static/css/2.465d1ef4.chunk.css.map",
+    "static/css/main.1a4d6ef6.chunk.css.map": "/RALM-BrewHaha/static/css/main.1a4d6ef6.chunk.css.map",
+    "static/js/2.0debaf92.chunk.js.LICENSE": "/RALM-BrewHaha/static/js/2.0debaf92.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12695a06.js",
+    "static/css/2.465d1ef4.chunk.css",
+    "static/js/2.0debaf92.chunk.js",
+    "static/css/main.1a4d6ef6.chunk.css",
+    "static/js/main.2feab2da.chunk.js"
+  ]
+}
