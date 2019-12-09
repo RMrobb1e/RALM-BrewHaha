@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7cd4dc31cab8b1c38e88060e99d77bb5",
+    "revision": "3fb2ea063f5fef26600988ce30e63846",
     "url": "/RALM-BrewHaha/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RALM-BrewHaha/static/css/2.465d1ef4.chunk.css"
   },
   {
-    "revision": "1e7ec12cef6b1d53933b",
+    "revision": "4d1acf2b713d2beae3e5",
     "url": "/RALM-BrewHaha/static/css/main.1a4d6ef6.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RALM-BrewHaha/static/js/2.b32b9f87.chunk.js.LICENSE"
   },
   {
-    "revision": "1e7ec12cef6b1d53933b",
-    "url": "/RALM-BrewHaha/static/js/main.8b723d0e.chunk.js"
+    "revision": "4d1acf2b713d2beae3e5",
+    "url": "/RALM-BrewHaha/static/js/main.7dca2153.chunk.js"
   },
   {
     "revision": "717bbc43a190a26a6bbd",
